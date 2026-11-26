@@ -35,14 +35,14 @@
     {
       "ticker": "MIELY",
       "name": "Mitsubishi Electric Corporation",
-      "price": 56.68,
+      "price": 56.73,
       "sharesOut": 1023,
-      "fcfTTM": 2096,
+      "fcfTTM": 2094,
       "fcf4yr": [
         -55,
-        1297,
-        1444,
-        2096
+        1296,
+        1443,
+        2094
       ],
       "fcfGrowth4yr": 0.0,
       "sector": "Industrials",
@@ -53,14 +53,14 @@
       "name": "Herm\u00e8s International Soci\u00e9t\u00e9 en commandite par actions",
       "price": 139.86,
       "sharesOut": 1046,
-      "fcfTTM": 4625,
+      "fcfTTM": 4622,
       "fcf4yr": [
-        4024,
-        3808,
-        4470,
-        4625
+        4022,
+        3806,
+        4467,
+        4622
       ],
-      "fcfGrowth4yr": 4.75,
+      "fcfGrowth4yr": 4.74,
       "sector": "Consumer Cyclical",
       "cashFlowMetric": "FCF"
     },
@@ -277,14 +277,14 @@
       "name": "Ferrari N.V.",
       "price": 409.59,
       "sharesOut": 175,
-      "fcfTTM": 1543,
+      "fcfTTM": 1542,
       "fcf4yr": [
         656,
         929,
         1028,
-        1543
+        1542
       ],
-      "fcfGrowth4yr": 32.99,
+      "fcfGrowth4yr": 32.96,
       "sector": "Consumer Cyclical",
       "cashFlowMetric": "FCF"
     },
@@ -373,12 +373,12 @@
       "name": "Investor AB (publ)",
       "price": 40.46,
       "sharesOut": 1247,
-      "fcfTTM": 15412,
+      "fcfTTM": 15430,
       "fcf4yr": [
-        -7308,
-        12433,
-        11091,
-        15412
+        -7316,
+        12447,
+        11104,
+        15430
       ],
       "fcfGrowth4yr": 0.0,
       "sector": "Financial Services",
@@ -389,12 +389,12 @@
       "name": "ASML Holding N.V.",
       "price": 1303.08,
       "sharesOut": 385,
-      "fcfTTM": 12105,
+      "fcfTTM": 12098,
       "fcf4yr": [
-        7868,
-        3564,
-        9971,
-        12105
+        7863,
+        3562,
+        9965,
+        12098
       ],
       "fcfGrowth4yr": 15.44,
       "sector": "Technology",
